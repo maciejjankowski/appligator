@@ -1,4 +1,4 @@
-# cv-to-form
+# cv-to-form - appligator
 
 Chrome extension for fast job applications.
 
